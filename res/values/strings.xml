@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">Seanna</string>
+    <string name="date_before">before</string>
+    <string name="date_choose">today</string>
+    <string name="date_next">next</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="title_time">Time</string>
+    <string name="title_curriculum_details">Curriculum Details</string>
+    <string name="title_address">Address</string>
+    <string name="update_info">Update</string>
+    <string name="delete_info">Delete</string>
+    <string name="detail_info">Details</string>
+    <string name="menu_config_time">Time Config</string>
+    <string name="menu_config_class">Class Config</string>
+    <string name="menu_config_weekly">Weekly Config</string>
+    <string name="str_class">Class</string>
+    <string name="str_class1">Class 1</string>
+    <string name="str_class2">Class 2</string>
+    <string name="str_class3">Class 3</string>
+    <string name="str_class4">Class 4</string>
+    <string name="str_class5">Class 5</string>
+    <string name="str_class6">Class 6</string>
+    <string name="str_save">Save</string>
+    <string name="title_modify">Update Information</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="class_start">Class Start</string>
+    <string name="class_end">Class End</string>
+    <string name="class_teacher">Teacher</string>
+    <string name="class_add">Add Class</string>
+    <string name="class_update">Update Class</string>
+
+</resources>

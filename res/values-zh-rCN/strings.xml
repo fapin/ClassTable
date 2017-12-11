@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">昕宝课表</string>
+    <string name="date_before">前一天</string>
+    <string name="date_choose">当前</string>
+    <string name="date_next">后一天</string>
+    <string name="sunday">星期日</string>
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="title_time">时间</string>
+    <string name="title_curriculum_details">课程信息</string>
+    <string name="title_address">地点</string>
+    <string name="update_info">修改</string>
+    <string name="delete_info">删除</string>
+    <string name="detail_info">详细信息</string>
+    <string name="menu_config_time">设置时间</string>
+    <string name="menu_config_class">设置课程</string>
+    <string name="menu_config_weekly">设置课表</string>
+    <string name="str_class">课程</string>
+    <string name="str_class1">第1节</string>
+    <string name="str_class2">第2节</string>
+    <string name="str_class3">第3节</string>
+    <string name="str_class4">第4节</string>
+    <string name="str_class5">第5节</string>
+    <string name="str_class6">第6节</string>
+    <string name="str_save">保存</string>
+    <string name="title_modify">信息更新</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="class_start">上课时间</string>
+    <string name="class_end">下课时间</string>
+    <string name="class_teacher">任课老师</string>
+    <string name="class_add">新增课程</string>
+    <string name="class_update">修改课程</string>
+
+</resources>

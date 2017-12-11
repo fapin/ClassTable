@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_config_sunday"
+        android:orderInCategory="1"
+        android:title="@string/sunday"/>
+    <item
+        android:id="@+id/menu_config_monday"
+        android:orderInCategory="2"
+        android:title="@string/monday"/>
+    <item
+        android:id="@+id/menu_config_tuesday"
+        android:orderInCategory="3"
+        android:title="@string/tuesday"/>
+    <item
+        android:id="@+id/menu_config_wednesday"
+        android:orderInCategory="3"
+        android:title="@string/wednesday"/>
+    <item
+        android:id="@+id/menu_config_thursday"
+        android:orderInCategory="3"
+        android:title="@string/thursday"/>
+    <item
+        android:id="@+id/menu_config_friday"
+        android:orderInCategory="3"
+        android:title="@string/friday"/>
+    <item
+        android:id="@+id/menu_config_saturday"
+        android:orderInCategory="3"
+        android:title="@string/saturday"/>
+
+</menu>
